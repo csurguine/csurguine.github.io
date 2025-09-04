@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Chris Surguine  
 *Lead Strategist & Assistant Director, Data Visualization | AI & Analytics Enthusiast | Atlanta, GA*  
 
 With 20+ years in **data visualization, business intelligence, and predictive analytics**, I help organizations turn complex data into actionable insights. I’ve led BI modernization, cloud analytics, and strategy for healthcare, retail, and Fortune 100 enterprises — and I’m currently expanding into **AI/GenAI solutions** to bridge business intelligence with the next generation of machine learning.  

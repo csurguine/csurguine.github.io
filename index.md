@@ -46,7 +46,6 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/chriss)  
-- 📧 [Email Me](mailto:your.email@example.com)   
 
 ---
-⭐️ From [Chris Surguine](https://github.com/your-username)
+⭐️ From [Chris Surguine](https://github.com/csurguine)

@@ -1,32 +1,9 @@
-## Blog Post Title From First Header
+## Curriculum Vitae
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Chris Surguine is a seasoned data visualization and analytics leader with more than 20 years of experience transforming complex data into meaningful insights for healthcare systems, Fortune 100 enterprises, and retail organizations. His career spans roles in consulting, data architecture, and executive analytics leadership, where he has consistently delivered innovative solutions that improve decision-making and operational efficiency.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+As Assistant Director of Data Visualization & Analytics at NTT DATA, Chris has led cross-functional teams in the design and delivery of enterprise dashboards, predictive analytics models, and BI modernization initiatives. His work includes guiding hospital executives through Generative AI adoption strategies, automating retail labor planning with Python and SQL, and re-platforming large-scale dashboard ecosystems to reduce cost and improve performance. He is recognized for bridging the gap between business stakeholders and technical teams, ensuring that analytics investments translate directly into measurable outcomes.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+Chris holds a Master of Science in Computer Science from the Georgia Institute of Technology, where his research explored intelligent tutoring systems, and a Bachelor of Science in Computer Science from Taylor University. His academic grounding in computer science and applied research complements his professional focus on data strategy, visualization storytelling, and emerging AI technologies.
 
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+In addition to his professional achievements, Chris actively mentors analytics teams, promotes agile delivery practices, and is expanding his expertise into LLMs, vector databases, and cloud-based AI frameworks. His professional memberships include the Association for Computing Machinery (ACM), and he has authored white papers on intelligent learning systems. Through his leadership, Chris continues to guide organizations from traditional business intelligence toward the next generation of AI-driven insights.

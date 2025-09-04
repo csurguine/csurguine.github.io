@@ -4,37 +4,37 @@ With 20+ years in **data visualization, business intelligence, and predictive an
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 Here are some projects I’ve worked on and shared on GitHub (or plan to highlight):  
 
-- **📊 Enterprise Truck Rental Dashboard**  
+- **Enterprise Truck Rental Dashboard**  
   Cross-functional Power BI solution delivering daily utilization KPIs to executives.   
 
-- **🛒 Retail Labor Planning Automation**  
+- **Retail Labor Planning Automation**  
   Python + SQL automation reducing 80+ hours/month of manual spreadsheet work.  
 
-- **🌐 API-Driven Data Integration**  
+- **API-Driven Data Integration**  
   Built pipelines connecting marketing, web-traffic, and helpdesk APIs into AWS Redshift, enabling near real-time campaign insights.  
 
 > 🔗 [View all my repositories](https://github.com/csurguine?tab=repositories)  
 
 ---
 
-## 🎓 Education
+## Education
 - **M.S., Computer Science** — Georgia Institute of Technology (2016–2020)  
   *Research focus: AI/Intelligent Tutoring Systems*  
 - **B.S., Computer Science** — Taylor University (2000–2004)  
 
 ---
 
-## 📜 Certifications
+## Certifications
 - **Power BI Certified**  
 - **Epic Clarity Certified**  
 - [**ML Specialization**](https://www.coursera.org/account/accomplishments/verify/74P42G2AH50V)
 
 ---
 
-## 🧰 Skills Snapshot
+## Skills Snapshot
 - **Data Visualization**: Power BI, Tableau, Qlik  
 - **Data Engineering**: SQL, SSIS, AWS Glue, Informatica, Talend  
 - **Cloud Analytics**: Snowflake, Redshift, BigQuery, Databricks  
@@ -44,8 +44,10 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/chriss)  
+## Connect with Me
+- [LinkedIn](https://linkedin.com/in/chriss)
+- [Curriculum Vitae]
+- [Full Resume]
 
 ---
-⭐️ From [Chris Surguine](https://github.com/csurguine)
+From [Chris Surguine](https://github.com/csurguine)

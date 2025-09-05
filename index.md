@@ -28,7 +28,7 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 ---
 
 ## Certifications, Accomplishments, and Badges
-- **Power BI Certified**  
+- [**MCSA: BI Reporting - Certified**](https://www.credly.com/badges/3011ba97-27de-4ed6-a4ee-350d049f50c5/linked_in_profile)
 - **Epic Clarity Certified**  
 - [**All Coursera Accomplishments**](https://www.coursera.org/user/9d75ea1c800b1d8ea082d0c0aa12ade3)
 - [**All SkillSoft Badges**](https://skillsoft.digitalbadges.skillsoft.com/profile/christophersurguine201905/wallet)

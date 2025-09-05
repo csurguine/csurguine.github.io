@@ -27,10 +27,11 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 
 ---
 
-## Certifications
+## Certifications, Accomplishments, and Badges
 - **Power BI Certified**  
 - **Epic Clarity Certified**  
-- [**ML Specialization**](https://www.coursera.org/account/accomplishments/verify/74P42G2AH50V)
+- [**All Coursera Accomplishments**](https://www.coursera.org/user/9d75ea1c800b1d8ea082d0c0aa12ade3)
+- [**All SkillSoft Badges**](https://skillsoft.digitalbadges.skillsoft.com/profile/christophersurguine201905/wallet)
 
 ---
 

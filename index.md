@@ -29,6 +29,7 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 
 ## Certifications, Accomplishments, and Badges
 - [**All Microsoft Certifications**](https://www.credly.com/users/chris-surguine/badges#credly)
+- [**All Palantir Badges**](https://verify.skilljar.com/c/wx8qd39su27o)
 - **Epic Clarity Certified**  
 - [**All Coursera Accomplishments**](https://www.coursera.org/user/9d75ea1c800b1d8ea082d0c0aa12ade3)
 - [**All SkillSoft Badges**](https://skillsoft.digitalbadges.skillsoft.com/profile/christophersurguine201905/wallet)

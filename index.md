@@ -53,8 +53,7 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/in/chriss)
-- [Curriculum Vitae]
-- [Full Resume]
+- [Full Resume](https://github.com/csurguine/csurguine.github.io/blob/9a2702cc781282bc228e67f6c7863b37908f765a/_includes/Christopher%20Surguine.pdf)
 
 ---
 From [Chris Surguine](https://github.com/csurguine)

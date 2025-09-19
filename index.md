@@ -28,12 +28,17 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 ---
 
 ## Certifications, Accomplishments, and Badges
-- [**All Microsoft Certifications**](https://www.credly.com/users/chris-surguine/badges#credly)
-- [**All Palantir Badges**](https://verify.skilljar.com/c/wx8qd39su27o)
-- **Epic Clarity Certified**  
-- [**All Coursera Accomplishments**](https://www.coursera.org/user/9d75ea1c800b1d8ea082d0c0aa12ade3)
-- [**All SkillSoft Badges**](https://skillsoft.digitalbadges.skillsoft.com/profile/christophersurguine201905/wallet)
-
+- **Microsoft**
+  - [MCSA: BI Reporting](https://www.credly.com/badges/3011ba97-27de-4ed6-a4ee-350d049f50c5)
+- **Palantir**
+  - [Speedrun: Your First AIP Workflow](https://verify.skilljar.com/c/wx8qd39su27o)
+  - [Deep Dive: Building Your First Pipeline](https://verify.skilljar.com/c/7f9ouprnjsnu)
+- **Epic Clarity**  
+- **Deeplearning.ai Accomplishments**
+  - [Supervised Machine Learning:Regression and Classification](https://www.coursera.org/account/accomplishments/verify/74P42G2AH50V)
+- **SkillSoft Badges**
+  - [Exploring Prompt Engineering Techniques](https://skillsoft.digitalbadges.skillsoft.com/ff99d739-f3c1-4203-a22e-157683b18089)
+  - [GenAI Academy: Yellow Belt Level 1](https://nttdataservices.digitalbadges.skillsoft.com/8a96256a-411e-426f-ac30-115e45f430c8#acc.J0utPnSI)
 ---
 
 ## Skills Snapshot

@@ -33,7 +33,9 @@ Here are some projects I’ve worked on and shared on GitHub (or plan to highlig
 - **Palantir**
   - [Speedrun: Your First AIP Workflow](https://verify.skilljar.com/c/wx8qd39su27o)
   - [Deep Dive: Building Your First Pipeline](https://verify.skilljar.com/c/7f9ouprnjsnu)
-- **Epic Clarity**  
+- **Epic Clarity**
+- **InfoSec Badges**
+  - [Security Training 2025-26](https://eu.knowbe4.com/enrollments/393997854/certificate.pdf)
 - **Deeplearning.ai Accomplishments**
   - [Supervised Machine Learning:Regression and Classification](https://www.coursera.org/account/accomplishments/verify/74P42G2AH50V)
 - **SkillSoft Badges**

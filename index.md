@@ -5,7 +5,10 @@ With 20+ years in **data visualization, business intelligence, and predictive an
 ---
 
 ## Featured Projects
-Here are some projects I’ve worked on and shared on GitHub (or plan to highlight):  
+Here are some projects I’ve worked on and shared on GitHub (or elsewhere):  
+
+- [**Shared Prompt Library**](https://surguine.notion.site)
+  A collection of prompts that I've discovered that produce great results, free to use and share.
 
 - **Enterprise Truck Rental Dashboard**  
   Cross-functional Power BI solution delivering daily utilization KPIs to executives.   

@@ -7,7 +7,7 @@ With 20+ years in **data visualization, business intelligence, and predictive an
 ## Featured Projects
 Here are some projects I’ve worked on and shared on GitHub (or elsewhere):  
 
-- 🔗 [**Prompt Library**](https://surguine.notion.site/lib)
+- 🔗 [**Prompt Library**](https://surguine.notion.site/library)
   A collection of prompts that I've discovered that produce great results, free to use and share.
 
 - 🔗 [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.surguine/)  

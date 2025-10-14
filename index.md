@@ -16,7 +16,7 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 - 🔗 [**Kaggle Datasets**](https://www.kaggle.com/chrissurguine)
   Public datasets I have created.
 
-> 🔗 [View all my GitHub repos](https://github.com/csurguine?tab=repositories)  
+- 🔗 [**GitHub Repos**](https://github.com/csurguine?tab=repositories)  
 
 ---
 

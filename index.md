@@ -41,6 +41,7 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 - **SkillSoft Badges**
   - [Exploring Prompt Engineering Techniques](https://skillsoft.digitalbadges.skillsoft.com/ff99d739-f3c1-4203-a22e-157683b18089)
   - [GenAI Academy: Yellow Belt Level 1](https://nttdataservices.digitalbadges.skillsoft.com/8a96256a-411e-426f-ac30-115e45f430c8#acc.J0utPnSI)
+
 ---
 
 ## Skills Snapshot

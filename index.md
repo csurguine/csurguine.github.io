@@ -10,16 +10,13 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 - [**Prompt Library**](https://surguine.notion.site/lib)
   A collection of prompts that I've discovered that produce great results, free to use and share.
 
-- **Enterprise Truck Rental Dashboard**  
-  Cross-functional Power BI solution delivering daily utilization KPIs to executives.   
+- [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.surguine/)  
+  A collection of my public Tableau visualizations. 
 
-- **Retail Labor Planning Automation**  
-  Python + SQL automation reducing 80+ hours/month of manual spreadsheet work.  
+- [**Kaggle Datasets**](https://www.kaggle.com/chrissurguine)
+  Public datasets I have created.
 
-- **API-Driven Data Integration**  
-  Built pipelines connecting marketing, web-traffic, and helpdesk APIs into AWS Redshift, enabling near real-time campaign insights.  
-
-> 🔗 [View all my repositories](https://github.com/csurguine?tab=repositories)  
+> 🔗 [View all my GitHub repos](https://github.com/csurguine?tab=repositories)  
 
 ---
 

@@ -7,16 +7,19 @@ With 20+ years in **data visualization, business intelligence, and predictive an
 ## Featured Projects
 Here are some projects I’ve worked on and shared on GitHub (or elsewhere):  
 
-- 🔗 [**Prompt Library**](https://surguine.notion.site/prompt-library)
+- [**PADDLE: Predictive Analytics and Data-driven Decision Learning Engine**](https://github.com/csurguine/paddle)
+  A comprehensive framework demonstrating advanced predictive and prescriptive analytics capabilities on large-scale datasets. PADDLE showcases state-of-the-art machine learning and optimization techniques for solving real-world business problems.
+
+- [**Prompt Library**](https://surguine.notion.site/prompt-library)
   A collection of prompts that I've discovered that produce great results, free to use and share.
 
-- 🔗 [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.surguine/)  
+- [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.surguine/)  
   A collection of my public Tableau visualizations. 
 
-- 🔗 [**Kaggle Datasets**](https://www.kaggle.com/chrissurguine)
+- [**Kaggle Datasets**](https://www.kaggle.com/chrissurguine)
   Public datasets I have created.
 
-- 🔗 [**GitHub Repos**](https://github.com/csurguine?tab=repositories)  
+- [**GitHub Repos**](https://github.com/csurguine?tab=repositories)  
 
 ---
 

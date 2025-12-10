@@ -13,13 +13,16 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 - [**Prompt Library**](https://surguine.notion.site/prompt-library)
   A collection of prompts that I've discovered that produce great results, free to use and share.
 
-- [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.surguine/)  
+- [**Tableau**](https://public.tableau.com/app/profile/chris.surguine/)  
   A collection of my public Tableau visualizations. 
 
-- [**Kaggle Datasets**](https://www.kaggle.com/chrissurguine)
+- [**HuggingFace**]](https://huggingface.co/csurguine)
+  My HuggingFace profile.
+
+- [**Kaggle**](https://www.kaggle.com/chrissurguine)
   Public datasets I have created.
 
-- [**GitHub Repos**](https://github.com/csurguine?tab=repositories)  
+- [**GitHub**](https://github.com/csurguine?tab=repositories)  
 
 ---
 

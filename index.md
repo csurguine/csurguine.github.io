@@ -16,7 +16,7 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 - [**Tableau**](https://public.tableau.com/app/profile/chris.surguine/)  
   A collection of my public Tableau visualizations. 
 
-- [**HuggingFace**]](https://huggingface.co/csurguine)
+- [**HuggingFace**](https://huggingface.co/csurguine)
   My HuggingFace profile.
 
 - [**Kaggle**](https://www.kaggle.com/chrissurguine)

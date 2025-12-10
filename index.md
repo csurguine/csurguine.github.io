@@ -15,7 +15,9 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 
 ## Socials
 - [**LinkedIn**](https://linkedin.com/in/chriss)
+- 
 - [**ORCA**](https://orcid.org/0009-0005-6752-5236)
+- 
 - [**Full Resume**](https://github.com/csurguine/csurguine.github.io/blob/9a2702cc781282bc228e67f6c7863b37908f765a/_includes/Christopher%20Surguine.pdf)
 
 ## My Portfolios

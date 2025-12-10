@@ -13,6 +13,10 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 - [**Prompt Library**](https://surguine.notion.site/prompt-library)
   A collection of prompts that I've discovered that produce great results, free to use and share.
 
+## Socials
+- [LinkedIn](https://linkedin.com/in/chriss)
+- [Full Resume](https://github.com/csurguine/csurguine.github.io/blob/9a2702cc781282bc228e67f6c7863b37908f765a/_includes/Christopher%20Surguine.pdf)
+
 ## My Portfolios
 
 - [**Tableau**](https://public.tableau.com/app/profile/chris.surguine/)  
@@ -59,9 +63,6 @@ Here are some projects I’ve worked on and shared on GitHub (or elsewhere):
 
 ---
 
-## Connect with Me
-- [LinkedIn](https://linkedin.com/in/chriss)
-- [Full Resume](https://github.com/csurguine/csurguine.github.io/blob/9a2702cc781282bc228e67f6c7863b37908f765a/_includes/Christopher%20Surguine.pdf)
 
 ---
 From [Chris Surguine](https://github.com/csurguine)
